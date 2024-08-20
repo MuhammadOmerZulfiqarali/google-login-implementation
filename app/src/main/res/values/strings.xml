@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Google-Login-Implementation</string>
+    <string name="default_web_client_id">Default Web Client Id </string>
+    <string name="sign_up_with_google">Sign up with Google</string>
+    <string name="loading">Loading..</string>
+    <string name="logout">logout</string>
+    <string name="sign_up">Sign Up</string>
+</resources>
